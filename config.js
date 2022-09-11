@@ -119,10 +119,10 @@ global.author = '                「 Chenn-MD-BOT-V1  あ」'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/34b37d16f2e2ae1e21391.jpg' //Main Thumbnail
-global.imagebot = 'https://i.ibb.co/XZrK6yQ/transformers.jpg'
+global.thumb = 'https://telegra.ph/file/6ab3eb13654208bfb97b0.jpg' //Main Thumbnail
+global.imagebot = 'https://telegra.ph/file/6ab3eb13654208bfb97b0.jpg'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
-global.thumbs = ['https://i.ibb.co/XZrK6yQ/transformers.jpg']
+global.thumbs = ['https://telegra.ph/file/6ab3eb13654208bfb97b0.jpg']
 global.fla = 'https://i.ibb.co/XZrK6yQ/transformers.jpg'
 global.flaaa2 = [
 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text=',
