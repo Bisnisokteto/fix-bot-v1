@@ -5,8 +5,7 @@ let pp = await conn.profilePictureUrl(m.chat).catch(_ => null)
 let str = `*https://youtube.com/channel/UC3HcOB2U-fgsR8onRGXFM3w*
 
 Pengen mentahan nya ?
-Nih ada santai bro....
-https://github.com/ImYanXiao/Elaina-MultiDevice
+Jual di admin, murah + no enc
 
 Pengen yang udah di recode oleh owner?
 Script bot ini dijual bila kalian mau bisa chat owner
@@ -18,7 +17,7 @@ conn.sendButtonDoc(m.chat, str, wm,'Thankyou','Bilek', m, { contextInfo: { exter
     mediaUrl: "https://Instagram.com/Cigegerotak",
     mediaType: "VIDEO",
     description: "https://www.instagram.com/p/CevoCg5hG-p/?utm_source=ig_web_copy_link", 
-    title: 'WH-MODS-DEV-V1 MultiDevice',
+    title: 'Chenn-BOT-MD-V1 MultiDevice',
     body: wm,
     thumbnail: thumb,
     sourceUrl: sgc
