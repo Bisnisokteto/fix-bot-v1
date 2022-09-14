@@ -1,5 +1,8 @@
 <div align="center">
-<img src="https://telegra.ph/file/03dd06f36f4328851a7d8.jpg" width="150" height="150" border="0" alt="PFP">
+<img src="https://telegra.ph/file/ba93aba3faf7cc52eb40c.jpg" alt="WH-MODS-DEV" width="300" />
+
+</p>
+<h1 align="center">WH MODS DEV</h1>
 
 ### ChenBotWhatsaAp - MD
 
