@@ -4,7 +4,7 @@
 </p>
 <h1 align="center">ChenBotWhatsaAp</h1>
 
-### Nainnadika:3
+### hi, I'am chenbot
 
 <p align="center">
   <a href="https://github.com/Bisnisokteto"><img title="Author" src="https://img.shields.io/badge/Author-DikaaOfc-blueviolet.svg?style=for-the-badge&logo=github" /></a>
