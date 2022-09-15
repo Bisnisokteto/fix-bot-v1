@@ -3,7 +3,7 @@
 
 </p>
 <p align="center">
-<a href="#"><img title="CHEN MULTI DEVICE" src="https://img.shields.io/badge/ALPHABOT MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="CHEN MULTI DEVICE" src="https://img.shields.io/badge/CHEN MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
 <p align="center">
