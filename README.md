@@ -23,11 +23,12 @@ Chen Bot Multi Device is a automated whatsapp bot created by <a href="https://gi
 > Jika kamu menemukan semacam bug, harap untuk dimaklumi sementara
 
 > Telah dilakukan pengoptimalan kinerja bot dengan menghapus button mengganggu berjalan nya bot
->  Kalo Erorr apikey nya beli atau ganti sendiri aja ya 
+
+> Kalo Erorr apikey nya beli atau ganti sendiri aja ya 
 
 > Masih Tahap Pengembangan v.1.0
 
 > Untuk file session ada di session.data.json, kalo mau run termux hapus terlebih dahulu file tersebut.
 
 ## *connect with me*
-   [x]Contact owner <a href="https://wa.me/6288223674569" target="_blank">Klik disini</a>
+-   [x]Contact owner <a href="https://wa.me/6288223674569" target="_blank">Klik disini</a>
