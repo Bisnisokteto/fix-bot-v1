@@ -12,7 +12,10 @@
 
 ## [![JavaScript](https://img.shields.io/badge/JavaScript-d6cc0f?style=for-the-badge&logo=javascript&logoColor=white)](https://www.javascript.com) [![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/) [![NodeJS](https://img.shields.io/badge/SQLite3-000000?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org)
 
-Official bot WhatsApp ChenBot-MD
+<p align="center">
+Chen Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/Bisnisokteto" target="_blank">Bisnisokteto</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+</p>
+
 
 hyy
 
