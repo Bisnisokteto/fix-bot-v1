@@ -38,3 +38,5 @@ Chen Bot Multi Device is a automated whatsapp bot created by <a href="https://gi
 ### others
 - [`Script ori by WH-MODS`](https://github.com/WH-MODS)
 - [`Di recode oleh DikaaOfc`](https://github.com/Bisnisokteto)
+
+# Seeyou🧸
