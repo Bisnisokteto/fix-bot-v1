@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Bisnisokteto"><img title="Author" src="https://img.shields.io/badge/Author-DikaaOfc-blueviolet.svg?style=for-the-badge&logo=github" /></a>
+<a href="https://github.com/Bisnisokteto"><img title="Author" src="https://img.shields.io/badge/Author-DikaaOfc-blueviolet.svg?style=for-the-badge&logo=github" /></a>
 </p>
 
 ## [![JavaScript](https://img.shields.io/badge/JavaScript-d6cc0f?style=for-the-badge&logo=javascript&logoColor=white)](https://www.javascript.com) [![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/) [![NodeJS](https://img.shields.io/badge/SQLite3-000000?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org)
@@ -17,3 +17,16 @@ Chen Bot Multi Device is a automated whatsapp bot created by <a href="https://gi
 </p>
 
 </div>
+
+### information
+
+> Jika kamu menemukan semacam bug, harap untuk dimaklumi sementara
+
+> Telah dilakukan pengoptimalan kinerja bot dengan menghapus button mengganggu berjalan nya bot
+>  Kalo Erorr apikey nya beli atau ganti sendiri aja ya 
+
+> Masih Tahap Pengembangan v.1.0
+
+> Untuk file session ada di session.data.json, kalo mau run termux hapus terlebih dahulu file tersebut.
+
+## *connect with me*
